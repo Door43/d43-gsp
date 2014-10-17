@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gsp:home|Door43 (gsp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gsp|d43-gsp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gsp/archive/master.zip|d43-gsp.zip]]
+
+**Recent Changes**
+{{changes>ns = gsp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gsp|Ethnologue data]]
+
